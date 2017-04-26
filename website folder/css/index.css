@@ -1,0 +1,157 @@
+
+
+
+a:hover{ color:maroon; font size: 2 px;}
+
+
+
+{style="color: blue;"> FanTasTic VoyAge}
+
+{style="color: turquoise;">Our Limitation ?; is totally based on your imagination ! ! !}
+
+
+
+ <!--navigation bar!-->
+        
+
+.center {
+    margin: auto;
+    width: 85%;
+    border: 5px solid gold;
+    padding: 10px;
+    display: inline-block;
+}
+    .header{
+        color: blue;
+        text-align: center;
+    }
+    .nav {
+    list-style-type: none;
+    margin: 0;
+    padding14px 16px;
+    overflow: hidden;
+    background-color: goldenrod;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: gold;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+a:hover:not(.active) {
+    background-color: crimson;
+}
+
+.active {
+background-color:goldenrod;
+}
+    .icon-bar i {
+        display: block;
+        font-size:35px;
+    }
+    
+    .icon-bar{
+        display: inline-block;
+        vertical-align: top;
+    }
+
+
+<p></p>
+
+
+text-align:center;
+margin: auto;
+
+
+
+
+ <!--image[s]!-->
+
+div.gallery {
+    margin: 5px;
+    border: 1px ;
+    float: left;
+    width: 180px;
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+
+
+
+
+  <div><center>
+ 
+<img src="images/Abbey.jpg"  style="width:684px">
+
+    </center>
+
+
+
+ <div><center>  
+ 
+<img src="images/legirls.jpg"  style="width:604px">
+
+    </center>
+
+
+  <center>
+
+<img src="images/leBeys.jpg"  style="width:604px">
+</center>
+
+
+
+
+<center>
+ 
+<img src="images/Dad.jpg"  style="width:604px">
+</center>
+
+
+<img src="images/lesistersnyplproject.jpg"  style="width:604px">
+
+
+   <center>
+
+<img src="images/leBeys.jpg"  style="width:604px">
+
+    </center>
+
+
+
+</center>
+ 
+<img src="images/kameren.jpg"  style="width:604px">
+
+                  
+    <center>   
+
+
+
+<!--footer!-->
+        
+        
+{ style="color: blue;">Kustom Fabrikation for the individual enthusiast and/or entrepreneur}
+
+
+</body>
+</html>
